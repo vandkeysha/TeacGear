@@ -1,0 +1,23 @@
+class boitstrap:
+- align-items-center = vertikal tengah
+- align-items-start = vertiakl  atas
+- align-items-end = vertikal bawah
+
+- justify-content-center = horizontal ke tengah
+
+ my:margin secara vertikal( atas bawah)
+ mx: horizontal(kanan kiri)
+ mt:margin top( atas)
+ mb:margin botton( bawah)
+ ms:margin start(kiri)
+ me:margin end(kanan)
+ row = baris
+ display flex = biar mudah di atur
+ container = pembungkus semua
+ lg = lebar
+ md = medium 
+ col = kolom
+ d-block = 
+
+ cara pakai:my-1, my-2, my-3 ,-5
+ ukuran bootstrap 1-5 kalau mau lebih bisa custome di vanila css
